@@ -1,10 +1,10 @@
 {
-    "name": "flood-hack-twilio", 
+    "name": "flood-hack-twilio",
     "version": "0.0.1",
-    "private": true, 
-    "dependencies": 
-    {
-    	"twilio" : "*",
-    	"express" : "*"
+    "private": true,
+    "dependencies": {
+        "twilio": "*",
+        "express": "*",
+        "request": "*"
     }
 }
